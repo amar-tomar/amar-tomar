@@ -64,5 +64,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/amar-tomar/amar-tomar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/amar-tomar/amar-tomar/output/github-contribution-grid-snake.svg?palette=github-dark)
+
 
