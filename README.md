@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 I’m currently learning **Next.js, TypeScript, and DSA**
 - 👯 I’m looking to collaborate on **Open Source and Freelance Projects**
-- 📝 I regularly write blogs on [Dev.to](https://dev.to/)
-- 💬 Ask me about **JavaScript, React, MongoDB, Express, Git**
-- 📫 How to reach me: **amartomar@example.com**
+- 💬 Ask me about **HTML, CSS, GSAP, BootStrap, TailwinCSS, LocoMotiveJS, SwiperJS, JavaScript, React, Redux, MongoDB, Express, Git**
+- 📫 How to reach me: **amartomar.official03@gmail.com**
 - ⚡ Fun fact: I love building stunning UI and solving real-world problems.
 
 ---
@@ -16,9 +15,9 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/your-github" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /></a>
-<a href="mailto:amartomar@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amartomar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/amar-tomar" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /></a>
+<a href="mailto:amartomar.official03@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -29,21 +28,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,html,css,tailwind,vscode,firebase" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=github_dark" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=github_dark" alt="langs" height="165" />
-</p>
-
----
-
 ### 🧠 Projects & Contributions
 
 - 🔨 [Task Manager MERN App](https://github.com/your-github/task-manager)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 [Portfolio Website](https://portfolio-amartomar.netlify.app/)
 - 📁 Check out my pinned repos below!
 
 ---
